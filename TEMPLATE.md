@@ -1,6 +1,6 @@
 
 > [!IMPORTANT]  
-> This is only a Template. Ensure you tailor this to the specific project.
+> This is only a Template. Ensure you tailor this to the specific project. To see what this should look like, consult the [Kitty port](https://github.com/Biscuit-Colorscheme/kitty/blob/main/README.md)
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Biscuit-Colorscheme/.github/main/assets/icon-dark-nobg.png" width="100"/><br/>
