@@ -13,6 +13,4 @@
 </h6>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Biscuit-Colorscheme/.github/main/assets/color-cycle-light.png" alt="Biscuit palette" width="400" />
-  <br>
-  <i>A cozy and warm colorscheme for the forest dwellers. An alternative to most boring modern colorschemes.</i>
 </p>
