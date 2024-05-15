@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/Biscuit-Colorscheme/.github/main/assets/icon-dark-nobg.png" width="100"/><br/>
+  <img src="https://raw.githubusercontent.com/Biscuit-Theme/biscuit/main/assets/logos/rainbow%20stroke.png" width="200"/><br/>
   Biscuit Color Scheme
 </h3>
 <h6 align="center">
@@ -10,5 +10,5 @@
 <p align="center">
   <i>Cozy and warm colorscheme for the forest dwellers. An alternative to most boring modern colorschemes.</i> 
   <br><br>
-  <img src="https://raw.githubusercontent.com/Biscuit-Colorscheme/.github/main/assets/color-cycle-light.png" alt="Biscuit palette" width="400" />
+  <img src="https://raw.githubusercontent.com/Biscuit-Theme/biscuit/main/assets/extras/rainbow%20line.png" alt="Biscuit palette" width="400" />
 </p>
