@@ -1,11 +1,11 @@
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/Biscuit-Theme/biscuit/main/assets/logos/rainbow%20stroke.png" width="200"/><br/>
-  Biscuit Color Scheme
+  <img src="https://github.com/Biscuit-Theme/biscuit/raw/main/assets/logos/rainbow%20stroke.png" width="250"/><br/>
+  <img src="https://github.com/Biscuit-Theme/biscuit/raw/main/assets/font%20rainbow.png" width="400"/><br/>
 </h3>
 <h6 align="center">
-  <a href="https://github.com/Biscuit-Colorscheme/biscuit#design-philosophy">Philosophy</a>
-  |
-  <a href="https://github.com/Biscuit-Colorscheme/biscuit#colors">Colors</a>
+  <a href="https://github.com/Biscuit-Colorscheme/biscuit#-design-philosophy"><img src="https://img.shields.io/badge/-DESIGN%20-CA3F3F?style=for-the-badge&labelColor=221E1E&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48IS0tIUZvbnQgQXdlc29tZSBGcmVlIDYuNS4yIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNzZS9mcmVlIENvcHlyaWdodCAyMDI0IEZvbnRpY29ucywgSW5jLi0tPjxwYXRoIGQ9Ik0xODQgMGMzMC45IDAgNTYgMjUuMSA1NiA1NlY0NTZjMCAzMC45LTI1LjEgNTYtNTYgNTZjLTI4LjkgMC01Mi43LTIxLjktNTUuNy01MC4xYy01LjIgMS40LTEwLjcgMi4xLTE2LjMgMi4xYy0zNS4zIDAtNjQtMjguNy02NC02NGMwLTcuNCAxLjMtMTQuNiAzLjYtMjEuMkMyMS40IDM2Ny40IDAgMzM4LjIgMCAzMDRjMC0zMS45IDE4LjctNTkuNSA0NS44LTcyLjNDMzcuMSAyMjAuOCAzMiAyMDcgMzIgMTkyYzAtMzAuNyAyMS42LTU2LjMgNTAuNC02Mi42QzgwLjggMTIzLjkgODAgMTE4IDgwIDExMmMwLTI5LjkgMjAuNi01NS4xIDQ4LjMtNjIuMUMxMzEuMyAyMS45IDE1NS4xIDAgMTg0IDB6TTMyOCAwYzI4LjkgMCA1Mi42IDIxLjkgNTUuNyA0OS45YzI3LjggNyA0OC4zIDMyLjEgNDguMyA2Mi4xYzAgNi0uOCAxMS45LTIuNCAxNy40YzI4LjggNi4yIDUwLjQgMzEuOSA1MC40IDYyLjZjMCAxNS01LjEgMjguOC0xMy44IDM5LjdDNDkzLjMgMjQ0LjUgNTEyIDI3Mi4xIDUxMiAzMDRjMCAzNC4yLTIxLjQgNjMuNC01MS42IDc0LjhjMi4zIDYuNiAzLjYgMTMuOCAzNiAyMS4yYzAgMzUuMy0yOC43IDY0LTY0IDY0Yy01LjYgMC0xMS4xLS43LTE2LjMtMi4xYy0zIDI4LjItMjYuOCA1MC4xLTU1LjcgNTAuMWMtMzAuOSAwLTU2LTI1LjEtNTYtNTZWNTZjMC0zMC45IDI1LjEtNTYgNTYtNTZ6IiBmaWxsPSIjZmZmZmZmIi8+PC9zdmc+"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Biscuit-Colorscheme/biscuit#-colors"><img src="https://img.shields.io/badge/-COLORS%20-629386?style=for-the-badge&labelColor=221E1E&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1NzYgNTEyIj48IS0tIUZvbnQgQXdlc29tZSBGcmVlIDYuNS4yIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNzZS9mcmVlIENvcHlyaWdodCAyMDI0IEZvbnRpY29ucywgSW5jLi0tPjxwYXRoIGQ9Ik0zMzkuMyAzNjcuMWMyNy4zLTMuOSA1MS45LTE5LjQgNjcuMi00Mi45TDU2OC4yIDc0LjFjMTIuNi0xOS41IDkuNC00NS4zLTcuNi02MS4yUzUxNy43LTQuNCA0OTkuMSA5LjZMMjYyLjQgMTg3LjJjLTI0IDE4LTM4LjIgNDYuMS0zOC40IDc2LjFMMzM5LjMgMzY3LjF6bS0xOS42IDI1LjRsLTExNi0xMDQuNEMxNDMuOSAyOTAuMyA5NiAzMzkuNiA5NiA0MDBjMCAzLjkuMiA3LjguNiAxMS42Qzk4LjQgNDI5LjEgODYuNCA0NDggNjguOCA0NDhINDRjLTE3LjcgMC0zMiAxNC4zLTMyIDMyczE0LjMgMzIgMzIgMzJIMjA4YzYxLjkgMCAxMTItNTAuMSAxMTItMTEyYzAtMi41LS4xLTUuMC0uMi03LjV6IiBmaWxsPSIjZmZmZmZmIi8+PC9zdmc+"></a>
 </h6>
 <p align="center">
   <i>Cozy and warm colorscheme for the forest dwellers. An alternative to most boring modern colorschemes.</i> 
