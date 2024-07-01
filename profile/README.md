@@ -12,5 +12,5 @@
   <br><br>
   <img src="https://raw.githubusercontent.com/Biscuit-Theme/biscuit/main/assets/extras/rainbow%20line.png" alt="Biscuit palette" width="400" />
 
-  <a href="https://discord.gg/biscuit"><img alt="discord-plural" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/discord-plural_vector.svg"></a>
+
 </p>
