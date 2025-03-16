@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://github.com/Biscuit-Theme/biscuit/raw/main/assets/logos/rainbow%20stroke.png" width="250"/><br/>
+  <img src="https://github.com/Biscuit-Theme/biscuit/raw/main/assets/logos/rainbow%20stroke.png" width="200"/><br/>
   <img src="https://github.com/Biscuit-Theme/biscuit/raw/main/assets/font%20rainbow.png" width="400"/><br/>
 </h3>
 <h6 align="center">
